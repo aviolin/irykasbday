@@ -10,7 +10,7 @@ html {
 
 body {
   background: white;
-  color: #333;
+  color: black;
   margin: 0;
 }
 
@@ -19,6 +19,7 @@ main {
   margin: auto;
   padding: 4rem 1rem 0;
   overflow: hidden;
+  position: relative;
 }
 
 main::before {
@@ -58,7 +59,7 @@ h1 {
 p {
   font-family: courier;
   font-size: 1.5rem;
-  color: #333;
+  color: black;
 }
 
 small {
